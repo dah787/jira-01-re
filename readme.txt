@@ -1,10 +1,5 @@
-
- - - -
-
 This is description and trigger file
-
  - - -
-
 Jira user scenario "User can log in, get information, create and delete dashboards, projects and issues":
 1.Get Jira instance info
 2.Get current user
@@ -17,3 +12,5 @@ Jira user scenario "User can log in, get information, create and delete dashboar
 9.Get issue metadata
 10.Delete project
 11.Get deleted project (check if existed)
+ - - -
+Trigger changes in repo
